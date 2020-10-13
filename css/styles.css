@@ -1,0 +1,68 @@
+body{
+  text-align: center;
+}
+
+/* Navigation Bar */
+
+.bar{
+  background-color: #1f3c88;
+  color: #f6f5f5;
+
+}
+#logo{
+  font-family:"Orbitron",sans-serif;
+  text-align: left;
+  font-size: 4rem;
+  color: #f6f5f5;
+}
+#barbuttons{
+  color: #f6f5f5;
+  margin: 0 50px;
+  font-family: "Piazzolla",serif;
+  font-size: 1.5rem;
+  opacity: 75%;
+}
+#barbuttons:hover{
+  color:#ee6f57;
+}
+
+.barbuttons{
+  color: #f6f5f5;
+}
+.navbar-toggler{
+  background-color: #f6f5f5;
+}
+
+/* Middle */
+
+.middle{
+  margin: 100px;
+}
+a{
+  color:#1f3c88;
+}
+a:hover{
+  text-decoration: none;
+  color:#ee6f57;
+}
+.card{
+  border: none;
+}
+
+/* Footer */
+
+.footer{
+    background-color: #1f3c88;
+    color: #f6f5f5;
+    font-family: "Piazzolla",serif;
+padding: 25px;
+}
+.footer-adress{
+text-align: left;
+}
+.footer-contact{
+  text-align: left;
+}
+p{
+  margin: 0;
+}

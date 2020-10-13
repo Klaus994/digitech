@@ -56,7 +56,7 @@ a:hover{
     color: #f6f5f5;
     font-family: "Piazzolla",serif;
 padding: 25px;
-  heigth:20%;
+  
 }
 .footer-adress{
 text-align: left;
@@ -67,3 +67,8 @@ text-align: left;
 p{
   margin: 0;
 }
+@media(max-width:1000px){
+  p{
+    font-size: 150%;
+  }
+  }

@@ -69,6 +69,6 @@ p{
 }
 @media(max-width:1000px){
   p{
-    font-size: 150%;
+    font-size: 1.5rem;
   }
   }

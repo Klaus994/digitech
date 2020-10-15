@@ -1,6 +1,4 @@
-body{
-  text-align: center;
-}
+
 
 /* Navigation Bar */
 
@@ -35,19 +33,28 @@ body{
 
 /* Middle */
 
+
 .middle{
-  margin: 100px;}
-a{
-  color:#1f3c88;
-}
-a:hover{
-  text-decoration: none;
-  color:#ee6f57;
-}
-.card{
-  border: none;
+  margin: 150px 0;
+
 }
 
+.xerox{
+  text-align: center;
+}
+
+th{
+  font-size: 2rem;
+}
+td{
+  font-size: 1.5rem;
+
+}
+.paylogo{
+
+  margin-bottom: 100px;
+  text-align: center;
+}
 /* Footer */
 
 .footer{
@@ -80,5 +87,3 @@ p{
   .footer-contact{
     text-align: center;
   }
-
-  /* PAYPOINT */

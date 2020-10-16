@@ -32,63 +32,47 @@
 }
 
 /* Middle */
-.cutie{
-  margin: auto;
-}
-.card{
-  margin: 15px;
-}
-.nume{
-  height: 50px;
-}
-.photo{
-  height: 150px;
-  width: 200px;
-  margin: auto;
-}
-.middle{
-  margin: 50px 0 100px;
-
+hr {
+    opacity: 50;
+    border-color: #8F9DC3;
+    border-style: dotted;
+    border-top-width: 10px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 5%;
+    margin: 50px auto;
 }
 
-.xerox{
-  text-align: center;
-}
+h4{
+  margin: 15px 0;
 
-th{
-  font-size: 2rem;
 }
 td{
-  font-size: 1.5rem;
-
+  padding: 10px;
+  font-size: 1.10rem;
 }
-.paylogo{
-
-  margin-bottom: 100px;
-  text-align: center;
+h2{
+  margin: 25px;
 }
-
-/* middle case marcat */
-
-.imgcase{
-  width: 150px;
-  margin:auto;
+img{
+  margin: auto;
+width: 40%;
 }
-.card{
-  text-align: center;
+.name {
+font-family: "Piazzolla";
+text-align: center;
+/* background-color: #8F9DC3;
+color: #f6f5f5; */
 }
-a{
-  color: white;
+.descriere{
+  font-family: "Piazzolla";
+  text-align: justify;
+  margin: 15px;
 }
-a:hover{
-  color: white;
-  text-decoration: none;
+.background{
+    background-color: #1f3c88;
 }
-.btn{
-  background-color: #1f3c88;
-  border-color: #1f3c88;
-}
-
 /* Footer */
 
 .footer{

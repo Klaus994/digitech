@@ -96,6 +96,10 @@ a:hover{
     color: #f6f5f5;
     font-family: "Piazzolla",serif;
 padding: 25px;
+position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
 
 }
 .footer-adress{
